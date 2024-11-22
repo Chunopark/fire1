@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE HWPML [
+	<!ENTITY nbsp	"&#160;">
+]>
+<HWPML Version="2.1"><HEAD SecCnt="1">
+<DOCSUMMARY>
+<TITLE>국가배상법</TITLE>
+<SUBJECT>본문</SUBJECT>
+<AUTHOR>법제처 국가법령정보센터</AUTHOR>
+<DATE></DATE> 
+<KEYWORDS>법제처 국가법령정보센터</KEYWORDS>
+<COMMENTS> </COMMENTS>
+</DOCSUMMARY>
+<DOCSETTING><BEGINNUMBER Page="1" Footnote="1" Endnote="1" Picture="1" Table="1" Equation="1"/>
+<CARETPOS List="0" Para="0" Pos="24"/>
+</DOCSETTING>
+<MAPPINGTABLE><BINDATALIST Count="4"><BINITEM Type="Embedding" BinData="1" Format="jpg"/>
+<BINITEM Type="Embedding" BinData="2" Format="bmp"/>
+<BINITEM Type="Embedding" BinData="3" Format="bmp"/>
+{국가법령이미지로고목록}
+{이미지파일목록}
+<BINITEM Type="Embedding" BinData="4" Format="png"/>
+</BINDATALIST>
+<FACENAMELIST><FONTFACE Lang="Hangul" Count="8"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="6" Type="hft" Name="휴먼명조"><TYPEINFO FamilyType="1" SerifStyle="0" Weight="0" Proportion="0" Contrast="0" StrokeVariation="0" ArmStyle="0" Letterform="0" Midline="0" XHeight="0"/>
+</FONT>
+<FONT Id="7" Type="hft" Name="휴먼고딕"><TYPEINFO FamilyType="2" SerifStyle="0" Weight="0" Proportion="0" Contrast="0" StrokeVariation="0" ArmStyle="0" Letterform="0" Midline="0" XHeight="0"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Latin" Count="6"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Hanja" Count="6"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Japanese" Count="5"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Other" Count="6"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="Symbol" Count="6"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+<FONTFACE Lang="User" Count="6"><FONT Id="0" Type="ttf" Name="굴림"><TYPEINFO FamilyType="2" SerifStyle="11" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="1" Type="ttf" Name="바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="2" Type="ttf" Name="한컴바탕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="3" Type="hft" Name="한양견고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="4" Type="hft" Name="한양신명조"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+<FONT Id="5" Type="hft" Name="한양중고딕"><TYPEINFO FamilyType="2" SerifStyle="3" Weight="6" Proportion="0" Contrast="0" StrokeVariation="1" ArmStyle="1" Letterform="1" Midline="1" XHeight="1"/>
+</FONT>
+</FONTFACE>
+</FACENAMELIST>
+<BORDERFILLLIST Count="38"><BORDERFILL Id="1" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+<FILLBRUSH><WINDOWBRUSH FaceColor="4294967295" HatchColor="0"/>
+</FILLBRUSH>
+</BORDERFILL>
+<BORDERFILL Id="2" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="3" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="4" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="5" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="6118749"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="6" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="7" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="1.0mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="8" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="1.0mm" Color="6118749"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="9" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="10" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="1.0mm" Color="6118749"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="11" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="1.0mm" Color="6118749"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="12" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="13" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="14" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="15" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="16" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="17" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<BOTTOMBORDER Type="SlimThick" Width="0.7mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="18" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="6118749"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="19" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="20" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="21" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="22" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="23" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="24" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="25" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="26" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="27" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="28" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.4mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.12mm" Color="0"/>
+<FILLBRUSH><WINDOWBRUSH FaceColor="15198183" HatchColor="0"/>
+</FILLBRUSH>
+</BORDERFILL>
+					<BORDERFILL BackSlash="0" BreakCellSeparateLine="0" CenterLine="0" CounterBackSlash="0" CounterSlash="0" CrookedSlash="0" Id="29" Shadow="false" Slash="0" ThreeD="false">
+						<LEFTBORDER Type="Solid" Width="0.12mm"/>
+						<RIGHTBORDER Type="Solid" Width="0.12mm"/>
+						<TOPBORDER Type="Solid" Width="0.3mm"/>
+						<BOTTOMBORDER Type="Solid" Width="0.12mm"/>
+						<DIAGONAL Type="Solid" Width="0.12mm"/>
+						<FILLBRUSH>
+							<WINDOWBRUSH Alpha="0" FaceColor="14079702" HatchColor="0"/>
+						</FILLBRUSH>
+					</BORDERFILL>
+					<BORDERFILL BackSlash="0" BreakCellSeparateLine="0" CenterLine="0" CounterBackSlash="0" CounterSlash="0" CrookedSlash="0" Id="30" Shadow="false" Slash="0" ThreeD="false">
+						<LEFTBORDER Type="Solid" Width="0.12mm"/>
+						<RIGHTBORDER Type="Solid" Width="0.12mm"/>
+						<TOPBORDER Type="Solid" Width="0.12mm"/>
+						<BOTTOMBORDER Type="Solid" Width="0.3mm"/>
+						<DIAGONAL Type="Solid" Width="0.12mm"/>
+					</BORDERFILL>
+<BORDERFILL Id="31" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.4mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.12mm" Color="0"/>
+</BORDERFILL>
+					<BORDERFILL BackSlash="0" BreakCellSeparateLine="0" CenterLine="0" CounterBackSlash="0" CounterSlash="0" CrookedSlash="0" Id="32" Shadow="false" Slash="0" ThreeD="false"><LEFTBORDER Type="Solid" Width="0.12mm"/><RIGHTBORDER Type="Solid" Width="0.12mm"/><TOPBORDER Type="None" Width="0.12mm"/><BOTTOMBORDER Type="None" Width="0.12mm"/><DIAGONAL Type="Solid" Width="0.12mm"/></BORDERFILL>
+					<BORDERFILL BackSlash="0" BreakCellSeparateLine="0" CenterLine="0" CounterBackSlash="0" CounterSlash="0" CrookedSlash="0" Id="33" Shadow="false" Slash="0" ThreeD="false"><LEFTBORDER Type="Solid" Width="0.12mm"/><RIGHTBORDER Type="Solid" Width="0.12mm"/><TOPBORDER Type="Solid" Width="0.12mm"/><BOTTOMBORDER Type="None" Width="0.12mm"/><DIAGONAL Type="Solid" Width="0.12mm"/></BORDERFILL>
+					<BORDERFILL BackSlash="0" BreakCellSeparateLine="0" CenterLine="0" CounterBackSlash="0" CounterSlash="0" CrookedSlash="0" Id="34" Shadow="false" Slash="0" ThreeD="false"><LEFTBORDER Type="Solid" Width="0.12mm"/><RIGHTBORDER Type="Solid" Width="0.12mm"/><TOPBORDER Type="None" Width="0.12mm"/><BOTTOMBORDER Type="Solid" Width="0.3mm"/><DIAGONAL Type="Solid" Width="0.12mm"/></BORDERFILL>
+<BORDERFILL Id="35" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="Solid" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="36" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.12mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.12mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.12mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.12mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+</BORDERFILL>
+<BORDERFILL Id="37" ThreeD="false" Shadow="false" Slash="0" BackSlash="0" CrookedSlash="0"><LEFTBORDER Type="None" Width="0.1mm" Color="0"/>
+<RIGHTBORDER Type="None" Width="0.1mm" Color="0"/>
+<TOPBORDER Type="None" Width="0.1mm" Color="0"/>
+<BOTTOMBORDER Type="None" Width="0.1mm" Color="0"/>
+<DIAGONAL Type="Solid" Width="0.1mm" Color="0"/>
+<FILLBRUSH><WINDOWBRUSH FaceColor="4294967295" HatchColor="0"/>
+</FILLBRUSH>
+</BORDERFILL>
+</BORDERFILLLIST>
+<CHARSHAPELIST Count="83">
+<CHARSHAPE Id="0" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="1" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="2" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="1" Latin="1" Hanja="1" Japanese="1" Other="1" Symbol="1" User="1"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="3" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="4" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="1" Latin="1" Hanja="1" Japanese="1" Other="1" Symbol="1" User="1"/>
+	<RATIO Hangul="95" Latin="95" Hanja="95" Japanese="95" Other="95" Symbol="95" User="95"/>
+	<CHARSPACING Hangul="-5" Latin="-5" Hanja="-5" Japanese="-5" Other="-5" Symbol="-5" User="-5"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="5" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="95" Latin="95" Hanja="95" Japanese="95" Other="95" Symbol="95" User="95"/>
+	<CHARSPACING Hangul="-5" Latin="-5" Hanja="-5" Japanese="-5" Other="-5" Symbol="-5" User="-5"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="6" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	{조문폰트}<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="7" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	{법령명폰트}<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	{볼드}
+</CHARSHAPE>
+<CHARSHAPE Id="8" Height="900" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="2" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="9" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="10" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="-50" Latin="-50" Hanja="-50" Japanese="-50" Other="-50" Symbol="-50" User="-50"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="11" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	{법령명폰트}<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	{볼드}
+</CHARSHAPE>
+<CHARSHAPE Id="12" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="13" Height="1100" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="14" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="15" Height="1000" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="16" Height="1000" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="17" Height="1700" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="18" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="19" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="20" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="21" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="6" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="22" Height="1300" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="23" Height="2000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="24" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="25" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="26" Height="3200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="5" Latin="5" Hanja="5" Japanese="0" Other="5" Symbol="5" User="5"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="27" Height="1300" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="28" Height="900" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="29" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="30" Height="2200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="31" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="32" Height="1700" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="33" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="6" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="34" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="35" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="36" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<UNDERLINE Type="Bottom" Shape="Solid" Color="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="37" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="38" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="39" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<UNDERLINE Type="Bottom" Shape="Solid" Color="16711680"/>
+</CHARSHAPE>
+<CHARSHAPE Id="40" Height="1600" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="41" Height="1300" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="42" Height="1100" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="43" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="44" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="45" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="46" Height="1400" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="47" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="48" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="49" Height="900" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="50" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="51" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="52" Height="1100" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="53" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="54" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="55" Height="1100" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="56" Height="1200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="5" Latin="5" Hanja="5" Japanese="5" Other="5" Symbol="5" User="5"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="1200" Id="57" ShadeColor="4294967295" SymMark="0" TextColor="0" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="3" Hanja="3" Japanese="3" Latin="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Hanja="97" Japanese="97" Latin="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="900" Id="58" ShadeColor="4294967295" SymMark="0" TextColor="16711680" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="4" Hanja="0" Japanese="0" Latin="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Hanja="97" Japanese="97" Latin="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="1000" Id="59" ShadeColor="4294967295" SymMark="0" TextColor="0" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="3" Hanja="3" Japanese="3" Latin="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Hanja="97" Japanese="97" Latin="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="1200" Id="60" ShadeColor="4294967295" SymMark="0" TextColor="0" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="4" Hanja="4" Japanese="4" Latin="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="900" Id="61" ShadeColor="4294967295" SymMark="0" TextColor="0" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="3" Hanja="3" Japanese="3" Latin="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Hanja="97" Japanese="97" Latin="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="62" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="63" Height="1000" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	{볼드}
+</CHARSHAPE>
+<CHARSHAPE Id="64" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="1" Latin="1" Hanja="1" Japanese="1" Other="1" Symbol="1" User="1"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="65" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="66" Height="1000" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="3" Latin="3" Hanja="0" Japanese="0" Other="3" Symbol="3" User="3"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="67" Height="2000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="4" Japanese="4" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="68" Height="1600" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="7" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="69" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="4" Japanese="2" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="70" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="6" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="71" Height="1300" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="72" Height="2000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="73" Height="3200" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="5" Latin="5" Hanja="5" Japanese="0" Other="5" Symbol="5" User="5"/>
+<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<BOLD/>
+</CHARSHAPE>
+<CHARSHAPE Id="74" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0"><FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="75" Height="1000" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+<FONTID Hangul="2" Latin="2" Hanja="2" Japanese="2" Other="2" Symbol="2" User="2"/>
+<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="76" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	{법령명폰트}<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	{볼드}
+</CHARSHAPE>
+<CHARSHAPE Id="77" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="78" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="3" Latin="3" Hanja="3" Japanese="3" Other="3" Symbol="3" User="3"/>
+	<RATIO Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="79" Height="900" TextColor="16711680" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="2" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="80" Height="1000" TextColor="0" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	{조문폰트}<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE Id="81" Height="1000" TextColor="255" ShadeColor="4294967295" UseFontSpace="false" UseKerning="false" SymMark="0">
+	<FONTID Hangul="4" Latin="4" Hanja="0" Japanese="0" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Latin="97" Hanja="97" Japanese="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Latin="100" Hanja="100" Japanese="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Latin="0" Hanja="0" Japanese="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+<CHARSHAPE BorderFillId="0" Height="1000" Id="82" ShadeColor="4294967295" SymMark="0" TextColor="16711680" UseFontSpace="false" UseKerning="false">
+	<FONTID Hangul="4" Hanja="0" Japanese="0" Latin="4" Other="4" Symbol="4" User="4"/>
+	<RATIO Hangul="97" Hanja="97" Japanese="97" Latin="97" Other="97" Symbol="97" User="97"/>
+	<CHARSPACING Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+	<RELSIZE Hangul="100" Hanja="100" Japanese="100" Latin="100" Other="100" Symbol="100" User="100"/>
+	<CHAROFFSET Hangul="0" Hanja="0" Japanese="0" Latin="0" Other="0" Symbol="0" User="0"/>
+</CHARSHAPE>
+</CHARSHAPELIST>
+<TABDEFLIST Count="4"><TABDEF Id="0" AutoTabLeft="false" AutoTabRight="false"/>
+<TABDEF Id="1" AutoTabLeft="true" AutoTabRight="false"/>
+<TABDEF Id="2" AutoTabLeft="false" AutoTabRight="true"/>
+<TABDEF Id="3" AutoTabLeft="false" AutoTabRight="false"><TABITEM Pos="86662" Type="Right" Leader="Dot"/>
+</TABDEF>
+</TABDEFLIST>
+<NUMBERINGLIST Count="1"><NUMBERING Id="1" Start="0"><PARAHEAD Level="1" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="Digit">^1.</PARAHEAD>
+<PARAHEAD Level="2" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="HangulSyllable">^2.</PARAHEAD>
+<PARAHEAD Level="3" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="Digit">^3)</PARAHEAD>
+<PARAHEAD Level="4" Alignment="Left" UseInstWidth="true" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="HangulSyllable">^4)</PARAHEAD>
+<PARAHEAD Level="5" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="Digit"></PARAHEAD>
+<PARAHEAD Level="6" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="Digit"></PARAHEAD>
+<PARAHEAD Level="7" Alignment="Left" UseInstWidth="false" AutoIndent="true" WidthAdjust="0" TextOffsetType="percent" TextOffset="50" CharShape="0" NumFormat="Digit"></PARAHEAD>
+</NUMBERING>
+</NUMBERINGLIST>
+<PARASHAPELIST Count="82"><PARASHAPE Id="0" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="1" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2620" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="1" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="true"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="2" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="3" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="3000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="4" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="2000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="5" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="1" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="4000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="6" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="2" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="6000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="7" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="3" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="8000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="8" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="4" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="10000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="9" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="5" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="12000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="10" Align="Justify" VerAlign="Baseline" HeadingType="Outline" Heading="0" Level="6" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="20" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="14000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="11" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="12" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="13" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="100"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="14" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="15" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="16" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="17" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="18" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="19" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="20" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4600" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="21" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2400" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="22" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1936" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="23" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2336" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="24" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="25" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10000" Left="3826" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="26" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8000" Left="3826" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="27" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="28" Align="Distribute" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="29" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="1854" Right="1906" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="30" Align="Distribute" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="31" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10000" Left="3826" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="32" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-9646" Left="3826" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="33" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-9148" Left="3826" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="34" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10152" Left="3826" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="35" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="200"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="36" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10000" Left="3826" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="37" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="38" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="39" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-7800" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="40" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="41" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4840" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="42" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4672" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="43" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4122" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="44" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10000" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="45" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="4000" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="46" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4000" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="47" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8000" Left="-600" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="48" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-9600" Left="2400" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="49" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="50" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-4840" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="51" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8000" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="52" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-12000" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="53" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-2600" Left="1600" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="54" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="55" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="2296" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="56" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-9000" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="57" Align="Left" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="58" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-5890" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="59" Align="Left" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="3" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8864" Left="3826" Right="3552" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="0" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="60" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="61" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="62" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="63" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="2" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="150"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="64" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="65" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="66" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="67" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="68" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1936" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="69" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="70" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="71" Align="Distribute" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="72" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="160"/>
+<PARABORDER BorderFill="37" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="73" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-7496" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="74" Align="Center" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1000" Left="11496" Right="12552" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="75" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="76" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="false" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="0" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="180"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="77" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1900" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="78" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-3600" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="79" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-6500" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="80" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-8000" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="81" Align="Justify" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-10500" Left="0" Right="0" Prev="0" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+<PARASHAPE Id="82" Align="Right" VerAlign="Baseline" HeadingType="None" Heading="0" Level="0" TabDef="0" BreakLatinWord="KeepWord" BreakNonLatinWord="true" Condense="0" WidowOrphan="false" KeepWithNext="false" KeepLines="false" PageBreakBefore="false" FontLineHeight="false" SnapToGrid="false"><PARAMARGIN Indent="-1936" Left="0" Right="0" Prev="1000" Next="0" LineSpacingType="Percent" LineSpacing="130"/>
+<PARABORDER BorderFill="1" OffsetLeft="0" OffsetRight="0" OffsetTop="0" OffsetBottom="0" Connect="false" IgnoreMargin="false"/>
+</PARASHAPE>
+</PARASHAPELIST>
+<STYLELIST Count="14"><STYLE Id="0" Type="Para" Name="바탕글" EngName="Normal" ParaShape="2" CharShape="2" NextStyle="0" LangId="1042"/>
+<STYLE Id="1" Type="Para" Name="본문" EngName="Body" ParaShape="3" CharShape="2" NextStyle="1" LangId="1042"/>
+<STYLE Id="2" Type="Para" Name="개요 1" EngName="Outline 1" ParaShape="4" CharShape="2" NextStyle="2" LangId="1042"/>
+<STYLE Id="3" Type="Para" Name="개요 2" EngName="Outline 2" ParaShape="5" CharShape="2" NextStyle="3" LangId="1042"/>
+<STYLE Id="4" Type="Para" Name="개요 3" EngName="Outline 3" ParaShape="6" CharShape="2" NextStyle="4" LangId="1042"/>
+<STYLE Id="5" Type="Para" Name="개요 4" EngName="Outline 4" ParaShape="7" CharShape="2" NextStyle="5" LangId="1042"/>
+<STYLE Id="6" Type="Para" Name="개요 5" EngName="Outline 5" ParaShape="8" CharShape="2" NextStyle="6" LangId="1042"/>
+<STYLE Id="7" Type="Para" Name="개요 6" EngName="Outline 6" ParaShape="9" CharShape="2" NextStyle="7" LangId="1042"/>
+<STYLE Id="8" Type="Para" Name="개요 7" EngName="Outline 7" ParaShape="10" CharShape="2" NextStyle="8" LangId="1042"/>
+<STYLE Id="9" Type="Para" Name="쪽 번호" EngName="Page Number" ParaShape="2" CharShape="1" NextStyle="9" LangId="1042"/>
+<STYLE Id="10" Type="Para" Name="머리말" EngName="Header" ParaShape="11" CharShape="3" NextStyle="10" LangId="1042"/>
+<STYLE Id="11" Type="Para" Name="각주" EngName="Footnote" ParaShape="0" CharShape="4" NextStyle="11" LangId="1042"/>
+<STYLE Id="12" Type="Para" Name="미주" EngName="Endnote" ParaShape="0" CharShape="4" NextStyle="12" LangId="1042"/>
+<STYLE Id="13" Type="Para" Name="메모" EngName="Memo" ParaShape="1" CharShape="5" NextStyle="13" LangId="1042"/>
+</STYLELIST>
+</MAPPINGTABLE>
+</HEAD>
+<BODY><SECTION Id="0">
+{법령집표지}
+{인쇄저장표지}
+{머리글}
+{목차영역}
+<P ParaShape="15" PageBreak="true"><TEXT CharShape="6"><SECDEF SpaceColumns="1134" TabStop="8000" OutlineShape="1"><STARTNUMBER PageStartsOn="Both" Page="0" Figure="0" Table="0" Equation="0"/>
+<HIDE Header="false" Footer="false" MasterPage="false" Border="false" Fill="false" PageNumPos="false" EmptyLine="false"/>
+<PAGEDEF Landscape="0" Width="59528" Height="84188" GutterType="LeftOnly"><PAGEMARGIN Left="4252" Right="4252" Top="5669" Bottom="4252" Header="3600" Footer="3600" Gutter="0"/>
+</PAGEDEF>
+<FOOTNOTESHAPE><AUTONUMFORMAT Type="Digit" SuffixChar=")" Superscript="false"/>
+<NOTELINE Length="5cm" Type="Solid" Width="0.12mm" Color="0"/>
+<NOTESPACING AboveLine="850" BelowLine="567" BetweenNotes="283"/>
+<NOTENUMBERING Type="Continuous"/>
+<NOTEPLACEMENT Place="EachColumn" BeneathText="false"/>
+</FOOTNOTESHAPE>
+<ENDNOTESHAPE><AUTONUMFORMAT Type="Digit" SuffixChar=")" Superscript="false"/>
+<NOTELINE Length="14692344" Type="Solid" Width="0.12mm" Color="0"/>
+<NOTESPACING AboveLine="850" BelowLine="567" BetweenNotes="0"/>
+<NOTENUMBERING Type="Continuous"/>
+<NOTEPLACEMENT Place="EndOfDocument" BeneathText="false"/>
+</ENDNOTESHAPE>
+<PAGEBORDERFILL Type="Both" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+<PAGEBORDERFILL Type="Even" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+<PAGEBORDERFILL Type="Odd" BorferFill="0" TextBorder="true" HeaderInside="false" FooterInside="false" FillArea="Paper"><PAGEOFFSET Left="1417" Right="1417" Top="1417" Bottom="1417"/>
+</PAGEBORDERFILL>
+</SECDEF>
+<COLDEF Type="Newspaper" Count="1" Layout="Left" SameSize="true"/>
+<PICTURE><SHAPEOBJECT InstId="1417942632" ZOrder="14" NumberingType="Figure" TextWrap="BehindText" Lock="false"><SIZE Width="5668" Height="5668" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="false" VertRelTo="Para" HorzRelTo="Column" VertAlign="Top" HorzAlign="Left" VertOffset="-902" HorzOffset="45188" FlowWithText="false" AllowOverlap="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><SHAPECOMPONENT XPos="-3384" YPos="-2576" GroupLevel="0" OriWidth="10208" OriHeight="12300" CurWidth="8161" CurHeight="9823" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="0" CenterX="2834" CenterY="2834"/><RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="-3384.00" E4="0.00" E5="1.00" E6="-2576.00"/><SCAMATRIX E1="0.80" E2="0.00" E3="-166.03" E4="0.00" E5="0.80" E6="2941.45"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><SCAMATRIX E1="0.82" E2="0.00" E3="-17.00" E4="0.00" E5="0.79" E6="0.00"/><ROTMATRIX E1="1.21" E2="0.00" E3="-927.59" E4="0.00" E5="1.45" E6="227.53"/><SCAMATRIX E1="0.70" E2="0.00" E3="5430.00" E4="0.00" E5="0.73" E6="-584.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="0.69" E6="-195.65"/></RENDERINGINFO></SHAPECOMPONENT><LINESHAPE Color="11866128" Width="85" Style="Solid" EndCap="Round" OutlineStyle="Outer"/><IMAGERECT X0="0" Y0="0" X1="10208" Y1="0" X2="10208" Y2="12300" X3="0" Y3="12300"/><IMAGECLIP Left="1417" Top="1417" Right="13583" Bottom="13583"/><INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/><IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="4"/></PICTURE><FIELDBEGIN Type="Bookmark" Name="국가배상법" InstId="1526823554" Editable="false" Dirty="false" Property="2"/><CHAR/></TEXT></P><P ParaShape="74"><TEXT CharShape="11"><CHAR>국가배상법</CHAR><FIELDEND Type="Bookmark" Editable="false" Property="2"/></TEXT><TEXT CharShape="11"><CHAR></CHAR></TEXT></P>
+<P ParaShape="16"><TEXT CharShape="42"><HEADER ApplyPageType="Both" TextWidth="51024" TextHeight="3600" HasTextRef="false" HasNumRef="false"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Top"><P ParaShape="13"><TEXT CharShape="9"><TABLE PageBreak="Cell" RepeatHeader="true" RowCount="1" ColCount="1" CellSpacing="0" BorderFill="2"><SHAPEOBJECT InstId="1201155746" ZOrder="0" NumberingType="Table" Lock="false"><SIZE Width="50929" Height="1982" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><INSIDEMARGIN Left="510" Right="510" Top="141" Bottom="141"/><ROW><CELL ColAddr="0" RowAddr="0" ColSpan="1" RowSpan="1" Width="50929" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="4"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="13"><TEXT CharShape="9"><CHAR>국가배상법</CHAR></TEXT></P></PARALIST></CELL></ROW></TABLE><CHAR></CHAR></TEXT></P><P ParaShape="12"><TEXT CharShape="10"/></P></PARALIST></HEADER><FOOTER ApplyPageType="Both" TextWidth="51024" TextHeight="3600" HasTextRef="false" HasNumRef="false"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Bottom"><P ParaShape="14"><TEXT CharShape="10"/></P><P ParaShape="15"><TEXT CharShape="10"><TABLE PageBreak="Cell" RepeatHeader="true" RowCount="1" ColCount="3" CellSpacing="0" BorderFill="2"><SHAPEOBJECT InstId="1201155747" ZOrder="1" NumberingType="Table" Lock="false"><SIZE Width="50947" Height="1982" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><INSIDEMARGIN Left="510" Right="510" Top="141" Bottom="141"/><ROW><CELL ColAddr="0" RowAddr="0" ColSpan="1" RowSpan="1" Width="12623" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="18" Style="10"><TEXT CharShape="9"><PICTURE><SHAPEOBJECT InstId="1201155748" ZOrder="2" NumberingType="Figure" Lock="false"><SIZE Width="1828" Height="1131" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><SHAPECOMPONENT XPos="0" YPos="-2469" GroupLevel="0" OriWidth="23760" OriHeight="14700" CurWidth="22847" CurHeight="14137" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="360" CenterX="914" CenterY="565"/><RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-2469.00"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-4.37"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-4.37"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-4.37"/><SCAMATRIX E1="0.96" E2="0.00" E3="0.00" E4="0.00" E5="0.96" E6="94.48"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><SCAMATRIX E1="0.08" E2="0.00" E3="0.00" E4="0.00" E5="0.08" E6="2469.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/></RENDERINGINFO></SHAPECOMPONENT><IMAGERECT X0="0" Y0="0" X1="23760" Y1="0" X2="23760" Y2="14700" X3="0" Y3="14700"/><IMAGECLIP Left="0" Top="0" Right="23700" Bottom="14640"/><INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/><IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="3"/></PICTURE><CHAR>&nbsp;법제처</CHAR></TEXT><TEXT CharShape="9"><CHAR></CHAR></TEXT></P></PARALIST></CELL><CELL ColAddr="1" RowAddr="0" ColSpan="1" RowSpan="1" Width="25701" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="17" Style="10"><TEXT CharShape="61"><CHAR>-&nbsp;</CHAR><AUTONUM Number="3" NumberType="Page"><AUTONUMFORMAT Type="Digit" Superscript="false"/></AUTONUM><CHAR>&nbsp;/&nbsp;</CHAR><AUTONUM Number="1" NumberType="TotalPage"><AUTONUMFORMAT Type="Digit" Superscript="false"/></AUTONUM><CHAR>&nbsp;-</CHAR></TEXT></P></PARALIST></CELL><CELL ColAddr="2" RowAddr="0" ColSpan="1" RowSpan="1" Width="12623" Height="1982" Header="false" HasMargin="false" Protect="false" Editable="false" Dirty="false" BorderFill="3"><PARALIST TextDirection="0" LineWrap="Break" VertAlign="Center"><P ParaShape="19" Style="10"><TEXT CharShape="9"><PICTURE><SHAPEOBJECT InstId="1310949373" ZOrder="3" NumberingType="Figure" Lock="false"><SIZE Width="1417" Height="1417" WidthRelTo="Absolute" HeightRelTo="Absolute" Protect="false"/><POSITION TreatAsChar="true" AffectLSpacing="false" VertAlign="Top" HorzAlign="Left" VertOffset="0" HorzOffset="0" FlowWithText="true"/><OUTSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/></SHAPEOBJECT><SHAPECOMPONENT XPos="0" YPos="-887" GroupLevel="0" OriWidth="2760" OriHeight="2760" CurWidth="1416" CurHeight="1416" HorzFlip="false" VertFlip="false"><ROTATIONINFO Angle="0" CenterX="708" CenterY="708"/><RENDERINGINFO><TRANSMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="-887.00"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="3.12"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="3.12"/><SCAMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/><ROTMATRIX E1="1.01" E2="0.00" E3="0.00" E4="0.00" E5="1.01" E6="-5.67"/><SCAMATRIX E1="0.51" E2="0.00" E3="0.00" E4="0.00" E5="0.51" E6="887.00"/><ROTMATRIX E1="1.00" E2="0.00" E3="0.00" E4="0.00" E5="1.00" E6="0.00"/></RENDERINGINFO></SHAPECOMPONENT><IMAGERECT X0="0" Y0="0" X1="2760" Y1="0" X2="2760" Y2="2760" X3="0" Y3="2760"/><IMAGECLIP Left="0" Top="0" Right="2700" Bottom="2700"/><INSIDEMARGIN Left="0" Right="0" Top="0" Bottom="0"/><IMAGE Bright="0" Contrast="0" Effect="RealPic" BinItem="2"/></PICTURE><CHAR>&nbsp;국가법령정보센터</CHAR></TEXT></P></PARALIST></CELL></ROW></TABLE><CHAR></CHAR></TEXT></P></PARALIST></FOOTER></TEXT><TEXT CharShape="62"><CHAR>[시행 2017. 10. 31.] [법률 제14964호, 2017. 10. 31., 일부개정]</CHAR></TEXT></P><P ParaShape="75"><TEXT CharShape="74"/></P><P ParaShape="76"><TEXT CharShape="74"><CHAR>법무부(국가소송과) 02-2110-3202</CHAR></TEXT></P><P ParaShape="2"><TEXT CharShape="6"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제1조(목적)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 이 법은 국가나 지방자치단체의 손해배상(損害賠償)의 책임과 배상절차를 규정함을 목적으로 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제2조(배상책임)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 국가나 지방자치단체는 공무원 또는 공무를 위탁받은 사인(이하 “공무원”이라 한다)이 직무를 집행하면서 고의 또는 과실로 법령을 위반하여 타인에게 손해를 입히거나, 「자동차손해배상 보장법」에 따라 손해배상의 책임이 있을 때에는 이 법에 따라 그 손해를 배상하여야 한다. 다만, 군인ㆍ군무원ㆍ경찰공무원 또는 예비군대원이 전투ㆍ훈련 등 직무 집행과 관련하여 전사(戰死)ㆍ순직(殉職)하거나 공상(公傷)을 입은 경우에 본인이나 그 유족이 다른 법령에 따라 재해보상금ㆍ유족연금ㆍ상이연금 등의 보상을 지급받을 수 있을 때에는 이 법 및 「민법」에 따른 손해배상을 청구할 수 없다. </CHAR></TEXT><TEXT CharShape="8"><CHAR>&lt;개정 2009. 10. 21., 2016. 5. 29.&gt;</CHAR></TEXT>
+<TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 제1항 본문의 경우에 공무원에게 고의 또는 중대한 과실이 있으면 국가나 지방자치단체는 그 공무원에게 구상(求償)할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제3조(배상기준)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 제2조제1항을 적용할 때 타인을 사망하게 한 경우(타인의 신체에 해를 입혀 그로 인하여 사망하게 한 경우를 포함한다) 피해자의 상속인(이하 “유족”이라 한다)에게 다음 각 호의 기준에 따라 배상한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 사망 당시(신체에 해를 입고 그로 인하여 사망한 경우에는 신체에 해를 입은 당시를 말한다)의 월급액이나 월실수입액(月實收入額) 또는 평균임금에 장래의 취업가능기간을 곱한 금액의 유족배상(遺族賠償)</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 대통령령으로 정하는 장례비</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 제2조제1항을 적용할 때 타인의 신체에 해를 입힌 경우에는 피해자에게 다음 각 호의 기준에 따라 배상한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 필요한 요양을 하거나 이를 대신할 요양비</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 제1호의 요양으로 인하여 월급액이나 월실수입액 또는 평균임금의 수입에 손실이 있는 경우에는 요양기간 중 그 손실액의 휴업배상(休業賠償)</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. 피해자가 완치 후 신체에 장해(障害)가 있는 경우에는 그 장해로 인한 노동력 상실 정도에 따라 피해를 입은 당시의 월급액이나 월실수입액 또는 평균임금에 장래의 취업가능기간을 곱한 금액의 장해배상(障害賠償)</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 제2조제1항을 적용할 때 타인의 물건을 멸실ㆍ훼손한 경우에는 피해자에게 다음 각 호의 기준에 따라 배상한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 피해를 입은 당시의 그 물건의 교환가액 또는 필요한 수리를 하거나 이를 대신할 수리비</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 제1호의 수리로 인하여 수입에 손실이 있는 경우에는 수리기간 중 그 손실액의 휴업배상</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 생명ㆍ신체에 대한 침해와 물건의 멸실ㆍ훼손으로 인한 손해 외의 손해는 불법행위와 상당한 인과관계가 있는 범위에서 배상한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑤ 사망하거나 신체의 해를 입은 피해자의 직계존속(直系尊屬)ㆍ직계비속(直系卑屬) 및 배우자, 신체의 해나 그 밖의 해를 입은 피해자에게는 대통령령으로 정하는 기준 내에서 피해자의 사회적 지위, 과실(過失)의 정도, 생계 상태, 손해배상액 등을 고려하여 그 정신적 고통에 대한 위자료를 배상하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑥ 제1항제1호 및 제2항제3호에 따른 취업가능기간과 장해의 등급 및 노동력 상실률은 대통령령으로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑦ 제1항부터 제3항까지의 규정에 따른 월급액이나 월실수입액 또는 평균임금 등은 피해자의 주소지를 관할하는 세무서장 또는 시장ㆍ군수ㆍ구청장(자치구의 구청장을 말한다)과 피해자의 근무처의 장의 증명이나 그 밖의 공신력 있는 증명에 의하고, 이를 증명할 수 없을 때에는 대통령령으로 정하는 바에 따른다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제3조의2(공제액)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 제2조제1항을 적용할 때 피해자가 손해를 입은 동시에 이익을 얻은 경우에는 손해배상액에서 그 이익에 상당하는 금액을 빼야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 제3조제1항의 유족배상과 같은 조 제2항의 장해배상 및 장래에 필요한 요양비 등을 한꺼번에 신청하는 경우에는 중간이자를 빼야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 제2항의 중간이자를 빼는 방식은 대통령령으로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제4조(양도 등 금지)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 생명ㆍ신체의 침해로 인한 국가배상을 받을 권리는 양도하거나 압류하지 못한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제5조(공공시설 등의 하자로 인한 책임)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 도로ㆍ하천, 그 밖의 공공의 영조물(營造物)의 설치나 관리에 하자(瑕疵)가 있기 때문에 타인에게 손해를 발생하게 하였을 때에는 국가나 지방자치단체는 그 손해를 배상하여야 한다. 이 경우 제2조제1항 단서, 제3조 및 제3조의2를 준용한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 제1항을 적용할 때 손해의 원인에 대하여 책임을 질 자가 따로 있으면 국가나 지방자치단체는 그 자에게 구상할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제6조(비용부담자 등의 책임)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 제2조ㆍ제3조 및 제5조에 따라 국가나 지방자치단체가 손해를 배상할 책임이 있는 경우에 공무원의 선임ㆍ감독 또는 영조물의 설치ㆍ관리를 맡은 자와 공무원의 봉급ㆍ급여, 그 밖의 비용 또는 영조물의 설치ㆍ관리 비용을 부담하는 자가 동일하지 아니하면 그 비용을 부담하는 자도 손해를 배상하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 제1항의 경우에 손해를 배상한 자는 내부관계에서 그 손해를 배상할 책임이 있는 자에게 구상할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제7조(외국인에 대한 책임)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 이 법은 외국인이 피해자인 경우에는 해당 국가와 상호 보증이 있을 때에만 적용한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제8조(다른 법률과의 관계)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 국가나 지방자치단체의 손해배상 책임에 관하여는 이 법에 규정된 사항 외에는 「민법」에 따른다. 다만, 「민법」 외의 법률에 다른 규정이 있을 때에는 그 규정에 따른다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제9조(소송과 배상신청의 관계)</CHAR></TEXT><TEXT CharShape="6"><CHAR> 이 법에 따른 손해배상의 소송은 배상심의회(이하 “심의회”라 한다)에 배상신청을 하지 아니하고도 제기할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제10조(배상심의회)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 국가나 지방자치단체에 대한 배상신청사건을 심의하기 위하여 법무부에 본부심의회를 둔다. 다만, 군인이나 군무원이 타인에게 입힌 손해에 대한 배상신청사건을 심의하기 위하여 국방부에 특별심의회를 둔다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 본부심의회와 특별심의회는 대통령령으로 정하는 바에 따라 지구심의회(地區審議會)를 둔다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 본부심의회와 특별심의회와 지구심의회는 법무부장관의 지휘를 받아야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 각 심의회에는 위원장을 두며, 위원장은 심의회의 업무를 총괄하고 심의회를 대표한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑤ 각 심의회의 위원 중 공무원이 아닌 위원은 「형법」 제127조 및 제129조부터 제132조까지의 규정을 적용할 때에는 공무원으로 본다. </CHAR></TEXT><TEXT CharShape="8"><CHAR>&lt;신설 2017. 10. 31.&gt;</CHAR></TEXT>
+<TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑥ 각 심의회의 관할ㆍ구성ㆍ운영과 그 밖에 필요한 사항은 대통령령으로 정한다. </CHAR></TEXT><TEXT CharShape="8"><CHAR>&lt;개정 2017. 10. 31.&gt;</CHAR></TEXT>
+<TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제11조(각급 심의회의 권한)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 본부심의회와 특별심의회는 다음 각 호의 사항을 심의ㆍ처리한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 제13조제6항에 따라 지구심의회로부터 송부받은 사건</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 제15조의2에 따른 재심신청사건</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. 그 밖에 법령에 따라 그 소관에 속하는 사항</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 각 지구심의회는 그 관할에 속하는 국가나 지방자치단체에 대한 배상신청사건을 심의ㆍ처리한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제12조(배상신청)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 이 법에 따라 배상금을 지급받으려는 자는 그 주소지ㆍ소재지 또는 배상원인 발생지를 관할하는 지구심의회에 배상신청을 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 손해배상의 원인을 발생하게 한 공무원의 소속 기관의 장은 피해자나 유족을 위하여 제1항의 신청을 권장하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 심의회의 위원장은 배상신청이 부적법하지만 보정(補正)할 수 있다고 인정하는 경우에는 상당한 기간을 정하여 보정을 요구하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 제3항에 따른 보정을 하였을 때에는 처음부터 적법하게 배상신청을 한 것으로 본다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑤ 제3항에 따른 보정기간은 제13조제1항에 따른 배상결정 기간에 산입하지 아니한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제13조(심의와 결정)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 지구심의회는 배상신청을 받으면 지체 없이 증인신문(證人訊問)ㆍ감정(鑑定)ㆍ검증(檢證) 등 증거조사를 한 후 그 심의를 거쳐 4주일 이내에 배상금 지급결정, 기각결정 또는 각하결정(이하 “배상결정”이라 한다)을 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 지구심의회는 긴급한 사유가 있다고 인정할 때에는 제3조제1항제2호, 같은 조 제2항제1호 및 같은 조 제3항제1호에 따른 장례비ㆍ요양비 및 수리비의 일부를 사전에 지급하도록 결정할 수 있다. 사전에 지급을 한 경우에는 배상결정 후 배상금을 지급할 때에 그 금액을 빼야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 제2항 전단에 따른 사전 지급의 기준ㆍ방법 및 절차 등에 관하여 필요한 사항은 대통령령으로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 제2항에도 불구하고 지구심의회의 회의를 소집할 시간적 여유가 없거나 그 밖의 부득이한 사유가 있으면 지구심의회의 위원장은 직권으로 사전 지급을 결정할 수 있다. 이 경우 위원장은 지구심의회에 그 사실을 보고하고 추인(追認)을 받아야 하며, 지구심의회의 추인을 받지 못하면 그 결정은 효력을 잃는다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑤ 심의회는 제3조와 제3조의2의 기준에 따라 배상금 지급을 심의ㆍ결정하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑥ 지구심의회는 배상신청사건을 심의한 결과 그 사건이 다음 각 호의 어느 하나에 해당한다고 인정되면 지체 없이 사건기록에 심의 결과를 첨부하여 본부심의회나 특별심의회에 송부하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 배상금의 개산액(槪算額)이 대통령령으로 정하는 금액 이상인 사건</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 그 밖에 대통령령으로 본부심의회나 특별심의회에서 심의ㆍ결정하도록 한 사건</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑦ 본부심의회나 특별심의회는 제6항에 따라 사건기록을 송부받으면 4주일 이내에 배상결정을 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑧ 심의회는 다음 각 호의 어느 하나에 해당하면 배상신청을 각하(却下)한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  1. 신청인이 이전에 동일한 신청원인으로 배상신청을 하여 배상금 지급(賠償金 支給) 또는 기각(棄却)의 결정을 받은 경우. 다만, 기각결정을 받은 신청인이 중요한 증거가 새로 발견되었음을 소명(疏明)하는 경우에는 그러하지 아니하다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  2. 신청인이 이전에 동일한 청구원인으로 이 법에 따른 손해배상의 소송을 제기하여 배상금지급 또는 기각의 확정판결을 받은 경우</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="78"><TEXT CharShape="6"><CHAR>  3. 그 밖에 배상신청이 부적법하고 그 잘못된 부분을 보정할 수 없거나 제12조제3항에 따른 보정 요구에 응하지 아니한 경우</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제14조(결정서의 송달)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 심의회는 배상결정을 하면 그 결정을 한 날부터 1주일 이내에 그 결정정본(決定正本)을 신청인에게 송달하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 제1항의 송달에 관하여는 「민사소송법」의 송달에 관한 규정을 준용한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제15조(신청인의 동의와 배상금 지급)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 배상결정을 받은 신청인은 지체 없이 그 결정에 대한 동의서를 첨부하여 국가나 지방자치단체에 배상금 지급을 청구하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 배상금 지급에 관한 절차, 지급기관, 지급시기, 그 밖에 필요한 사항은 대통령령으로 정한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 배상결정을 받은 신청인이 배상금 지급을 청구하지 아니하거나 지방자치단체가 대통령령으로 정하는 기간 내에 배상금을 지급하지 아니하면 그 결정에 동의하지 아니한 것으로 본다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제15조의2(재심신청)</CHAR></TEXT><TEXT CharShape="6"><CHAR> ① 지구심의회에서 배상신청이 기각(일부기각된 경우를 포함한다) 또는 각하된 신청인은 결정정본이 송달된 날부터 2주일 이내에 그 심의회를 거쳐 본부심의회나 특별심의회에 재심(再審)을 신청할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ② 재심신청을 받은 지구심의회는 1주일 이내에 배상신청기록 일체를 본부심의회나 특별심의회에 송부하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ③ 본부심의회나 특별심의회는 제1항의 신청에 대하여 심의를 거쳐 4주일 이내에 다시 배상결정을 하여야 한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ④ 본부심의회나 특별심의회는 배상신청을 각하한 지구심의회의 결정이 법령에 위반되면 사건을 그 지구심의회에 환송(還送)할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑤ 본부심의회나 특별심의회는 배상신청이 각하된 신청인이 잘못된 부분을 보정하여 재심신청을 하면 사건을 해당 지구심의회에 환송할 수 있다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="77"><TEXT CharShape="6"><CHAR>  ⑥ 재심신청사건에 대한 본부심의회나 특별심의회의 배상결정에는 제14조와 제15조를 준용한다.</CHAR></TEXT><TEXT CharShape="8"/></P>
+<P ParaShape="68" Style="0"><TEXT CharShape="8"><CHAR>  [전문개정 2008. 3. 14.]</CHAR></TEXT></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제16조</CHAR></TEXT><TEXT CharShape="6"><CHAR> 삭제 </CHAR></TEXT><TEXT CharShape="8"><CHAR>&lt;1997. 12. 13.&gt;</CHAR></TEXT>
+<TEXT CharShape="8"/></P>
+<P ParaShape="22"><TEXT CharShape="7"><CHAR>제17조</CHAR></TEXT><TEXT CharShape="6"><CHAR> 삭제 </CHAR></TEXT><TEXT CharShape="8"><CHAR>&lt;2008. 3. 14.&gt;</CHAR></TEXT>
+<TEXT CharShape="8"/></P>
+<P ParaShape="2"><TEXT CharShape="6"/></P>
+<P ParaShape="2"><TEXT CharShape="7"><CHAR>&nbsp;&nbsp;&nbsp;&nbsp;부칙&nbsp;</CHAR></TEXT><TEXT CharShape="8"><CHAR>&nbsp;&lt;제14964호, 2017. 10. 31.&gt; &nbsp;</CHAR></TEXT></P>
+<P ParaShape="21"><TEXT CharShape="6"><CHAR>이 법은 공포한 날부터 시행한다.</CHAR></TEXT><TEXT CharShape="6"/></P>
+
+{마지막표지}
+</SECTION>
+</BODY>
+<TAIL><BINDATASTORAGE><BINDATA Size="21036" Encoding="Base64" Id="1">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dG9yRGF0YWJvb2wBAAAAAFBnUHNlbnVtAAAAAFBnUHMAAAAAUGdQQwAAAABMZWZ0VW50RiNSbHQAAAAAAAAAAAAAAABUb3AgVW50RiNSbHQAAAAAAAAAAAAAAABTY2wgVW50RiNQcmNAWQAAAAAAAAAAABBjcm9wV2hlblByaW50aW5nYm9vbAAAAAAOY3JvcFJlY3RCb3R0b21sb25nAAAAAAAAAAxjcm9wUmVjdExlZnRsb25nAAAAAAAAAA1jcm9wUmVjdFJpZ2h0bG9uZwAAAAAAAAALY3JvcFJlY3RUb3Bsb25nAAAAAAA4QklNA+0AAAAAABAAYAAAAAEAAgBgAAAAAQACOEJJTQQmAAAAAAAOAAAAAAAAAAAAAD+AAAA4QklNBA0AAAAAAAQAAAAeOEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAAAAAACQAAAAAAAAAAAQA4QklNJxAAAAAAAAoAAQAAAAAAAAACOEJJTQP1AAAAAABIAC9mZgABAGxmZgAGAAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAGAAAAAAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA/////////////////////////////wPoAAAAAP////////////////////////////8D6AAAAAD/////////////////////////////A+gAADhCSU0EAAAAAAAAAgABOEJJTQQCAAAAAAAEAAAAADhCSU0EMAAAAAAAAgEBOEJJTQQtAAAAAAAGAAEAAAAEOEJJTQQIAAAAAAAQAAAAAQAAAkAAAAJAAAAAADhCSU0EHgAAAAAABAAAAAA4QklNBBoAAAAAAzsAAAAGAAAAAAAAAAAAAAARAAAAGAAAAAMAZABvAGMAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABgAAAARAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAABudWxsAAAAAgAAAAZib3VuZHNPYmpjAAAAAQAAAAAAAFJjdDEAAAAEAAAAAFRvcCBsb25nAAAAAAAAAABMZWZ0bG9uZwAAAAAAAAAAQnRvbWxvbmcAAAARAAAA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cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjMwOTY0RkY2QzZGN0U1MTFBODJGOENEQ0U2RTgxQkE3IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiBkYzpmb3JtYXQ9ImltYWdlL2pwZWciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHhtcDpDcmVhdGVEYXRlPSIyMDE2LTA0LTAxVDEzOjU0OjExKzA5OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjc4Q0ZDMkI5RkRGNkU1MTFBODJGOENEQ0U2RTgxQkE3IiBzdEV2dDp3aGVuPSIyMDE2LTA0LTAxVDE0OjAyOjQxKzA5OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6MzA5NjRGRjZDNkY3RTUxMUE4MkY4Q0RDRTZFODFCQTciIHN0RXZ0OndoZW49IjIwMTYtMDQtMDFUMTQ6MDI6NDErMDk6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+/+4ADkFkb2JlAGRAAAAAAf/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgICAwMDAwMDAwMDAwEBAQEBAQEBAQEBAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAEQAYAwERAAIRAQMRAf/dAAQAA//EAHcAAAIDAAAAAAAAAAAAAAAAAAAKCAkLAQADAQEAAAAAAAAAAAAAAAAABQYIBxAAAQUAAgICAwEAAAAAAAAABAIDBQYHAQgACRITESMXFBEAAgICAQMDAwQDAAAAAAAAAQIDBBEFBgAhEkETBzFSFFFhMmIVFgj/2gAMAwEAAhEDEQA/AHH/AGC9zILol1os24nVt282wibr2eZPnY5iY57QNXvBio2oVlUitDiQAPm28ac9wlTjceE/y0lbvCG1POO6Vt7slpmb26yI0kr4LeEUYy7YHcnHZR6sR0q2+xfXVoTBCJb880cEEZYIJJpmCRqXYhVXJyzMQFUE+nUG4LIPeYXFRuwTPbzr2FcnR02E/qX/ABqqMZTwtz5nIpH9VarEppsWQ0OtIbrnEvIo/wBCOVJkOW1cOcKtjsWcyrqNDTSqP4e89h7DL+rukyQK5+uFgZFJxlwPI6L4hqf+Zqb1tN8h8j51c2LYWfZ6z/Ewa+KQ9i1fV2qM16xUjb6STbOtZsRKJPxqsjeyljXUDsa72cx1q7TdPPzjRqrarNl2xZtJL+4ygaxRDER1trnJKeVtmBfJ1kwN5K18OBFs8/JXP558XU7kd6H3kjZGDFWRsFkYdmUkdjj0IA8hg4GcCe+ZPiu38Rcy/wBcbd19ro7VOC/rthXDLDsNdbT3KttI2JeIuAySwsWMM8csXm4QO3//0GX/AHudQNd7i9ETK/go8jK6/iuq0zsHR61DPqHnLUdSIe212Shq+4lbal2JmAupZ0eynn7SjQmmGv2uI8uvjvd0dHyISbIgUbELwux7hQ5VgW/rlQGPoCSewPUP8g6a9uuPlNZ5G/XmSZApwzFAwIU/cAxZfUkADuR0mBqXaL3Hey7VMmxG1l7Cu85bJjiR0JVKbLYmBUrM2QKPIahq5sDH10SvSkNwIlx+Wk1DCw7aHeRUDcvPcO92rargfEKN/Zp+OtSVSWZ3EvkvokfkTkHPZVyW7ZJwMcSa9z/m2z1uliisy7FXCpHHGyHzJA83CgYYfccBe+AMnOgt0xyi25rR9Cn72USXcNk09WlzzxoLkXIHExuZZlkA1lkot5tkmJlL/HZQzZCQn22igX5hYxDaH2nE8ZIiSP8AI2VmKH24Z7LyKn2qQFUH9/FQT698Hv1vr5R5Km2r/GXF02CXG4vxetqnsIwZJphau7Cx4MMq8cFjYS1Y5ELRypXWWJmjdCf/0X+PDo6PDo6PDo6//9k=</BINDATA>
+<BINDATA Size="5721" Encoding="Base64" Id="2">Qk2iBwAAAAAAADYAAAAoAAAAGQAAABkAAAABABgAAAAAAGwHAAASFwAAEhcAAAAAAAAAAAAA/////////////////v7+/v7+/v7+/f7+/f7+/P39u9fMiYJOh1sLilgGmmwquJZr4NHB/f38/f7+//7+////////////////////AP////////7+/v7+/v7+/vz6+sq2pdfGvP7+/pjCsnlnH4dVAIhVAIhVAIdVAIhVAIhWAZxxL9G+o/z6+f7+//7+/v7+/v///////wD////////+/v7+/v7n3diMYTirim39/f3J4txpcjmHVQCJVgCJVgCJVgCJVgCJVgCJVgCHVQCHVQCfdjfq4NX9/v79/v7+/v7///8A/v7+/v7+/f7+2cq/dkQQcj0I6uLd/f7+gburhFwOiFUAiVYAiFYAiFYAiFYAiVYAiFYAh1UAiFUAh1UAjl4P28u3/f7+/v7+////AP3+/v7+/ung3HZEEW85AIJRHfr4+P7+/nG4pI9fBZBcAI1aAIlXAIhWAIhWAIdWAIdWAIhWAIlWAIlWAIlWAI5dD+vh1/7+/v///wD+/v759vWSZz53PgB8QgCLVBj49fP+/v6Ey7mbcBOgZgCeZQCZYgCTXgCMWQCJVgCIVgCJVgCJVgCJVgCJVgCIVgCheTz59/T///8A/v7+5tvTgEYEhEgAiEoAjE0B3su7/v7+tuXafZhVq24Aqm0Ap2wAo2kAnWQAlV8Ai1kAiFUAh1YAiVYAiVYAh1UAh1UAw6mE/f7+APz7+v38/LqUb45OAJFPAJJQAKhyN/n29Pj8+23OtZKSQbFxALBwAK1vAKltAKNpAJxjAJFbAIhWAIlWAIlWAIdVAIdVAI9fEvPt6ADfza3p3MT8+/vAmXaUUgCWUwCXUwDEnHf+/v7h9fBUzbF0rneqgR2ycgCvcACsbgClagCdZACQXACHVgCIVgCIVQCJVgCIVgDPup4AyqliuIkY5dKw/fz74My9toRQoF8aomIjzquP/Pv65/fzjd7LUMqtcK92o4QksHEArG8ApmsAnGQAjloAh1YAiFYAiVYAh1UAsIxXALyPKbWBALmEAsmhTufVtfr49vTs6Ni8qb+Tcr2NbObVyP79/dz173XXwVDLroGiXrFzBKxuAKVqAJpiAItYAIhWAIlWAIdVAJZnIAC3hAe4hAG/jCDElD3Imk7LoFzau43o1Lnz6N359/Ts4Njq3NX8+vn0+/mC28dWzrR4q3GxcgGrbgCiaACUXwCIVgCJVgCIVQCJVwIAt4MAvIkRw5M6yJpOy6BdzqVp0Klx0qx30q15061627yU7N3M/Pv6/v/+2/TvaNO8V861lpA9r3AAqGwAnWQAjFkAh1YAh1YAiFYAALmGA8COJ8aYR8ufWs+ladKqddu8k+XQte7h0fbw6Pz8+/r48/z6+P7+/vf8+37axmbSu22/lrBzBKxuAKFoAJJdAIdWAIhVAIhWAADCkSfDkjbIm1HZuYrs3Mb59vL9/f369u7y69ns4cbs3sD28OP+/v79/v79/v6Q389y1sFh0bmjjTmucACmawCYYQCJVwCHVQCQYBUA0Kpb069t9Ozg/v7++PXs7+PI6Niz59iz6ty89O7g/f38/v7+/v/+/v7+9vz7j9/Oe9nFa9S9i6tzsHEAqWwAnWQAi1gAh1UAp4FGAOnYu/z7+fv69+nasuLKkuTRo+bWr+zewPr59f7+/v7+/v7+/v7+/v7//9n07o7fzoDbyHLWwH+5kLJzBatuAJ9mAI1aAIdWAMSqhgD9/v749Ongx4HexIDhy5Hk0KHs4MP8+/j+/v7////+///+///+/v7v+ven5dmR4NCD28lz1sGCvpi0dg2rbgCgZgCPWwCKWQfp39QA/f7+7+PA2rtj3cJ44ciL5dKj/Pv5/v7+/v7+/v///v7+8/v51/LtrubbnuLVkeDQhNzJdNfBhbmQtHYNq24AoGcAj1sAsY9d/f7+AP7+/vv69t3Cb9u+bN7Ef+bTpP7+/v3+/uL18svv573r4bTo3q7m26Xk2Jrh1I7fz4Dbx3HWwZeqdbN1DKtuAKBmAJlpGfDp4/7+/gD9/v79/v3z6tDZul3cwHLgyIn7+vb8/f2r5tqp5dqq5tqp5dmk5Nic4tWS39GH3ct72cZr1L6vkEaycwOqbQCeZQLXxKr+/v7+/v4A/////////f7969yu2bpf3L9w7eC8/f7+vuvjmOHTm+LUmuHUluHSkN/Qid3MftvIctfCgMCbt3sZsHAAqGwBza+D/fz8/v7+////AP////////3+/v3+/vDlxNq9YNu+avTt2fr9/Kzn24fey4nezIbdyoHcyXnaxnHXwW7NsbGIMrJzAbF2D9zDov7+/f7+/v7+/v///wD////////////////+/v759u7m05nbv2j28eD9/v3R8uuY49Ny2cNu18Fn1b5yx6OtiSu1dgjMomHz6uD+/v7+/v7///////////8A/////////////////v7+/v7+/f7++fbt7+K//Pr2/f7+/f7+9vv6z+PWrrOHyZ1V3L2P9Ovj/v7+/v7+/v7+/v7+////////////AA==</BINDATA>
+<BINDATA Size="252903" Encoding="Base64" Id="3">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dG9yRGF0YWJvb2wBAAAAAFBnUHNlbnVtAAAAAFBnUHMAAAAAUGdQQwAAAABMZWZ0VW50RiNSbHQAAAAAAAAAAAAAAABUb3AgVW50RiNSbHQAAAAAAAAAAAAAAABTY2wgVW50RiNQcmNAWQAAAAAAAAAAABBjcm9wV2hlblByaW50aW5nYm9vbAAAAAAOY3JvcFJlY3RCb3R0b21sb25nAAAAAAAAAAxjcm9wUmVjdExlZnRsb25nAAAAAAAAAA1jcm9wUmVjdFJpZ2h0bG9uZwAAAAAAAAALY3JvcFJlY3RUb3Bsb25nAAAAAAA4QklNA+0AAAAAABAAYAAAAAEAAgBgAAAAAQACOEJJTQQmAAAAAAAOAAAAAAAAAAAAAD+AAAA4QklNBA0AAAAAAAQAAAAeOEJJTQQZAAAAAAAEAAAAHjhCSU0D8wAAAAAACQAAAAAAAAAAAQA4QklNJxAAAAAAAAoAAQAAAAAAAAACOEJJTQP1AAAAAABIAC9mZgABAGxmZgAGAAAAAAABAC9mZgABAKGZmgAGAAAAAAABADIAAAABAFoAAAAGAAAAAAABADUAAAABAC0AAAAGAAAAAAABOEJJTQP4AAAAAABwAAD/////////////////////////////A+gAAAAA/////////////////////////////wPoAAAAAP////////////////////////////8D6AAAAAD/////////////////////////////A+gAADhCSU0EAAAAAAAAAgABOEJJTQQCAAAAAAAEAAAAADhCSU0EMAAAAAAAAgEBOEJJTQQtAAAAAAAGAAEAAAAEOEJJTQQIAAAAAAAQAAAAAQAAAkAAAAJAAAAAADhCSU0EHgAAAAAABAAAAAA4QklNBBoAAAAAAzsAAAAGAAAAAAAAAAAAAAARAAAAGAAAAAMAZABvAGMAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAABgAAAARAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEAAAAAAABudWxsAAAAAgAAAAZib3VuZHNPYmpjAAAAAQAAAAAAAFJjdDEAAAAEAAAAAFRvcCBsb25nAAAAAAAAAABMZWZ0bG9uZwAAAAAAAAAAQnRvbWxvbmcAAAARAAAA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cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0RXZ0PSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VFdmVudCMiIHhtbG5zOmRjPSJodHRwOi8vcHVybC5vcmcvZGMvZWxlbWVudHMvMS4xLyIgeG1sbnM6cGhvdG9zaG9wPSJodHRwOi8vbnMuYWRvYmUuY29tL3Bob3Rvc2hvcC8xLjAvIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOkRvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjMwOTY0RkY2QzZGN0U1MTFBODJGOENEQ0U2RTgxQkE3IiB4bXBNTTpPcmlnaW5hbERvY3VtZW50SUQ9IkU4NTVFM0IzODQ0MDY1QUIyQUNGRUYyNDAwNUYwMkFGIiBkYzpmb3JtYXQ9ImltYWdlL2pwZWciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiIHhtcDpDcmVhdGVEYXRlPSIyMDE2LTA0LTAxVDEzOjU0OjExKzA5OjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxNi0wNC0wMVQxNDowMjo0MSswOTowMCI+IDx4bXBNTTpIaXN0b3J5PiA8cmRmOlNlcT4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOjc4Q0ZDMkI5RkRGNkU1MTFBODJGOENEQ0U2RTgxQkE3IiBzdEV2dDp3aGVuPSIyMDE2LTA0LTAxVDE0OjAyOjQxKzA5OjAwIiBzdEV2dDpzb2Z0d2FyZUFnZW50PSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgc3RFdnQ6Y2hhbmdlZD0iLyIvPiA8cmRmOmxpIHN0RXZ0OmFjdGlvbj0ic2F2ZWQiIHN0RXZ0Omluc3RhbmNlSUQ9InhtcC5paWQ6MzA5NjRGRjZDNkY3RTUxMUE4MkY4Q0RDRTZFODFCQTciIHN0RXZ0OndoZW49IjIwMTYtMDQtMDFUMTQ6MDI6NDErMDk6MDAiIHN0RXZ0OnNvZnR3YXJlQWdlbnQ9IkFkb2JlIFBob3Rvc2hvcCBDUzYgKFdpbmRvd3MpIiBzdEV2dDpjaGFuZ2VkPSIvIi8+IDwvcmRmOlNlcT4gPC94bXBNTTpIaXN0b3J5PiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8P3hwYWNrZXQgZW5kPSJ3Ij8+/+4ADkFkb2JlAGRAAAAAAf/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgICAwMDAwMDAwMDAwEBAQEBAQEBAQEBAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAEQAYAwERAAIRAQMRAf/dAAQAA//EAHcAAAIDAAAAAAAAAAAAAAAAAAAKCAkLAQADAQEAAAAAAAAAAAAAAAAABQYIBxAAAQUAAgICAwEAAAAAAAAABAIDBQYHAQgACRITESMXFBEAAgICAQMDAwQDAAAAAAAAAQIDBBEFBgAhEkETBzFSFFFhMmIVFgj/2gAMAwEAAhEDEQA/AHH/AGC9zILol1os24nVt282wibr2eZPnY5iY57QNXvBio2oVlUitDiQAPm28ac9wlTjceE/y0lbvCG1POO6Vt7slpmb26yI0kr4LeEUYy7YHcnHZR6sR0q2+xfXVoTBCJb880cEEZYIJJpmCRqXYhVXJyzMQFUE+nUG4LIPeYXFRuwTPbzr2FcnR02E/qX/ABqqMZTwtz5nIpH9VarEppsWQ0OtIbrnEvIo/wBCOVJkOW1cOcKtjsWcyrqNDTSqP4e89h7DL+rukyQK5+uFgZFJxlwPI6L4hqf+Zqb1tN8h8j51c2LYWfZ6z/Ewa+KQ9i1fV2qM16xUjb6STbOtZsRKJPxqsjeyljXUDsa72cx1q7TdPPzjRqrarNl2xZtJL+4ygaxRDER1trnJKeVtmBfJ1kwN5K18OBFs8/JXP558XU7kd6H3kjZGDFWRsFkYdmUkdjj0IA8hg4GcCe+ZPiu38Rcy/wBcbd19ro7VOC/rthXDLDsNdbT3KttI2JeIuAySwsWMM8csXm4QO3//0GX/AHudQNd7i9ETK/go8jK6/iuq0zsHR61DPqHnLUdSIe212Shq+4lbal2JmAupZ0eynn7SjQmmGv2uI8uvjvd0dHyISbIgUbELwux7hQ5VgW/rlQGPoCSewPUP8g6a9uuPlNZ5G/XmSZApwzFAwIU/cAxZfUkADuR0mBqXaL3Hey7VMmxG1l7Cu85bJjiR0JVKbLYmBUrM2QKPIahq5sDH10SvSkNwIlx+Wk1DCw7aHeRUDcvPcO92rargfEKN/Zp+OtSVSWZ3EvkvokfkTkHPZVyW7ZJwMcSa9z/m2z1uliisy7FXCpHHGyHzJA83CgYYfccBe+AMnOgt0xyi25rR9Cn72USXcNk09WlzzxoLkXIHExuZZlkA1lkot5tkmJlL/HZQzZCQn22igX5hYxDaH2nE8ZIiSP8AI2VmKH24Z7LyKn2qQFUH9/FQT698Hv1vr5R5Km2r/GXF02CXG4vxetqnsIwZJphau7Cx4MMq8cFjYS1Y5ELRypXWWJmjdCf/0X+PDo6PDo6PDo6//9k=</BINDATA>
+{국가법령이미지로고}
+{이미지파일}
+<BINDATA Size="252903" Encoding="Base64" Id="4">iVBORw0KGgoAAAANSUhEUgAAAMgAAADIAQAAAACFI5MzAAABZ0lEQVR42u2XMY6DQBAEGznYkCfwE/gYki3xMfOTfQLhBoi+noHTcUYOPehOEFhmi2C03T2zC757cJGL/AGSAdxyIgdy5ENvdTShL5KPRkT/lnBSUA+Zz5peYEZ7DknjBJTqRIJqQoOTiOuTFqApbX1ULoC4R23Rfo7u/TxZH9OnkT7HBH+eZFeFnHqgm+57fYIIFZC5Ses3MuqPPmEkLbWaBLU7Wpy3LYok5lFap1BAOtWWfrk3gqzmSCPnxqVBx2BiqvTeJOybm8kVTjrz6IIefCqx+wTHEG2HAlJaeLf0wRVNSjepV1WKqOUFZ5BW2bCAwB2yy08QkTTq0pLmriq1OzuPBhGdmbxHYjNqiSeK6LBKY6MTiCfeq9Sh1kNDfpmaAcTnNq0obOcoRpPvM6xeVVZmPLGK6HNi1Qf1GSQnG96bW08iPrh8bscT+v2hsouUda0Xh0QQP8M6tpnFeHLd3i/y38gXQOd09oxKLsgAAAAASUVORK5CYII=</BINDATA>
+</BINDATASTORAGE>
+</TAIL>
+</HWPML>
